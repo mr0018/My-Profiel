@@ -49,6 +49,22 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.bg-react {
+  background-color: #61DBFB !important;
+}
+
+.bg-node {
+  background-color: #84ba64 !important;
+}
+
+.bg-mongo {
+  background-color: #235f00 !important;
+}
+
+.bg-postgres {
+  background-color: #699eca !important;
+}
+
 article,
 aside,
 figcaption,
